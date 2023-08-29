@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"connection"},{"l":"lojaroupas.DAO"},{"l":"lojaroupas.model"},{"l":"lojaroupas.view"},{"l":"main"}];updateSearchResults();
